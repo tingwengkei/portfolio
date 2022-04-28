@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktings_portfolio"]=self["webpackChunktings_portfolio"]||[]).push([[21],{3021:function(n,e,r){r.r(e),r.d(e,{default:function(){return s}});var t=r(3396);function o(n,e,r,o,i,u){return(0,t.wg)(),(0,t.iD)("div",null," home ")}var i={name:"HomeView"},u=r(89);const f=(0,u.Z)(i,[["render",o]]);var s=f}}]);
+//# sourceMappingURL=21.e7ff3519.js.map
